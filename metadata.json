@@ -1,0 +1,6 @@
+{
+  "name": "BunkSmart",
+  "description": "Precision attendance tracking and strategic bunk simulation engine for university students with 75% threshold mathematics, timetable projection, and what-if planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
